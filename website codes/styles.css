@@ -1,0 +1,138 @@
+.logo{
+    width: 150px;
+    height: 150px;
+  }
+  
+  .Download-button{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  
+  .carousel-item{
+    /* font-family: "Montserrat"; */
+    font-weight: bolder;
+    font-size: 2rem;
+    color: #fff;
+    padding: 5% 15% 0;
+  }
+  
+  #testimonials{
+    text-align: center;
+    background-color: #fff;
+    padding-bottom:5%;
+  }
+  
+  .testimonial-image{
+    width: 100%;
+  }
+  
+  .register_button{
+    margin-left: 45%;
+  }
+  
+  .text-center {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+  }
+  
+  #footer{
+    padding-top: 50px;
+    text-align: center;
+    background-color: #A47E3B;
+    margin-bottom: 0;
+  }
+  
+  .insta{
+     height: 25px;
+     margin-right: 30px;
+  }
+  
+  .thankyou{
+    width: 100%;
+  }
+  
+  .heading_in_drone{
+    text-align: center;
+  }
+  
+  .Drone{
+    width: 50%;
+   margin-left: 20rem;
+  }
+  
+  .loading{
+    margin-left: 40rem;
+  }
+  
+  .extract{
+    margin-left: 20rem;
+  }
+  
+  .Obstacle_space{
+    margin-left: 30rem;
+  }
+  
+  .chatbot{
+    margin-left: 40rem;
+  }
+  
+  .body_back{
+    background-color: #000;
+  }
+  
+  .link{
+    color:#fff;
+  }
+  
+  .no_button{
+    margin-left: 2%;
+  }
+  
+  .link_yes{
+    color: #000;
+  }
+
+  .nav_title{
+    color:#fff;
+    padding-left: 20.5rem;
+  }
+
+  .heading_cau{
+    color:#000;
+  }
+
+  .testimonial-text{
+    color:#000;
+  }
+
+  .nav_col{
+    background-color:#815B5B;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
